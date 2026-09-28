@@ -17,7 +17,7 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 ## Portfolio Artifacts
 * **Artifact 1:** Software Design and Engineering (Animal Rescue Database & Dashboard Application)
 * **Artifact 2:** Algorithms and Data Structures (Binary Search Tree & Price Range Search)
-* **Artifact 3:** Databases / Security (Coming soon or add your third artifact here)
+* **Artifact 3:** Databases 
 
 ---
 
