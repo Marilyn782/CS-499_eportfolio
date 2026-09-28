@@ -1,9 +1,26 @@
 ---
 ---
 
-@import "jekyll-theme-architect";
+@import "jekyll-theme-cayman";
 
-/* Custom Pink/Purple Banner Header for Architect Theme */
-header {
+/* Custom Pink/Purple Banner Gradient & Centering */
+.page-header {
   background-image: linear-gradient(120deg, #b83582, #6b35b8);
+  text-align: center; /* Centers all text inside the banner */
+}
+
+.project-name {
+  color: #ffffff;
+}
+
+.project-tagline {
+  color: #fce4ec;
+}
+
+/* Centers the "View project on GitHub" button */
+.btn {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 200px;
 }
