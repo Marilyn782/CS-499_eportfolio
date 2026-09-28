@@ -3,9 +3,13 @@
 
 @import "jekyll-theme-cayman";
 
+/* Import the handwritten font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
 /* Custom Pink/Purple Banner Gradient */
 .page-header {
   background-image: linear-gradient(120deg, #b83582, #6b35b8);
+  text-align: center; /* Centers the banner content */
 }
 
 .project-name {
@@ -16,7 +20,12 @@
   color: #fce4ec;
 }
 
-/* Restore the theme's signature font to the body */
-body {
-  font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+/* Force the font everywhere */
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Architects Daughter', cursive, sans-serif !important;
+}
+
+/* Keep main content left-aligned */
+.main-content {
+  text-align: left;
 }
