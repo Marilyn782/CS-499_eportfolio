@@ -3,10 +3,9 @@
 
 @import "jekyll-theme-cayman";
 
-/* Custom Pink/Purple Banner & Centering */
+/* Custom Pink/Purple Banner Gradient */
 .page-header {
   background-image: linear-gradient(120deg, #b83582, #6b35b8);
-  text-align: center;
 }
 
 .project-name {
@@ -17,8 +16,7 @@
   color: #fce4ec;
 }
 
-/* Center the GitHub button safely */
-.btn {
-  display: inline-block;
-  margin: 0 auto;
+/* Restore the theme's signature font to the body */
+body {
+  font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
