@@ -3,10 +3,10 @@
 
 @import "jekyll-theme-cayman";
 
-/* Custom Pink/Purple Banner Gradient & Centering */
+/* Custom Pink/Purple Banner & Centering */
 .page-header {
   background-image: linear-gradient(120deg, #b83582, #6b35b8);
-  text-align: center; /* Centers all text inside the banner */
+  text-align: center;
 }
 
 .project-name {
@@ -17,10 +17,8 @@
   color: #fce4ec;
 }
 
-/* Centers the "View project on GitHub" button */
+/* Center the GitHub button safely */
 .btn {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  max-width: 200px;
+  display: inline-block;
+  margin: 0 auto;
 }
