@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: CS-499 ePortfolio
 ---
 
 
