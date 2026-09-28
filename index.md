@@ -21,6 +21,6 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 
 ---
 
-## Professional Self-Assessment
-*(You can add your self-assessment narrative here later as you progress through the course!)*
+## Code Review
+
 
