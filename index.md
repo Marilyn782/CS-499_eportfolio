@@ -24,8 +24,8 @@ https://youtu.be/wokFh1Ooinc
 ---
 
 ## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
-## Enhancement 2:** Algorithms and Data Structures (Binary Search Tree & Price Range Search)
-## Enhancement 3:** Databases 
+## Enhancement 2: Algorithms and Data Structures (Binary Search Tree & Price Range Search)
+## Enhancement 3: Databases 
 
 ---
 
