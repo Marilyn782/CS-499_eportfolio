@@ -19,14 +19,13 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 
 ---
 
-## Portfolio Artifacts
-
----
-
 ## Code Review
 [Watch Code Review Video](https://youtu.be/wokFh1Ooinc)
 
 ---
+
+## Portfolio Artifacts
+
 
 ## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
 For my first enhancement in the Software Design and Engineering category, I chose the Animal Rescue Database and Dashboard Application I built in CS 340. I coded it in Python using MongoDB, Plotly, and Dash. It hooks straight into an animal shelter database, filters records for things like water or mountain rescue needs, and shows everything on an interactive web dashboard with data tables and maps.
