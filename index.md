@@ -15,12 +15,19 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 ---
 
 ## Portfolio Artifacts
-* **Artifact 1:** Software Design and Engineering (Animal Rescue Database & Dashboard Application)
-* **Artifact 2:** Algorithms and Data Structures (Binary Search Tree & Price Range Search)
-* **Artifact 3:** Databases 
 
 ---
 
-# Code Review
+## Code Review
+
+---
+
+## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
+## Enhancement 2:** Algorithms and Data Structures (Binary Search Tree & Price Range Search)
+## Enhancement 3:** Databases 
+
+---
+
+
 
 
