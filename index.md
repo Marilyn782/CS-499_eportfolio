@@ -20,7 +20,7 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 ---
 
 ## Code Review
-[Watch Code Review Video](https://youtu.be/wokFh1Ooinc)
+[Watch My Code Review Here](https://youtu.be/wokFh1Ooinc)
 
 ---
 
