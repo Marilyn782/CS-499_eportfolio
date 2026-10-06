@@ -46,6 +46,7 @@ I chose this BST program for my ePortfolio to show off my skills in algorithms a
 These updates checked off the course outcomes I planned for Module One. Adding the price range search proved Outcome 3 by using recursive logic to solve a real computing problem beyond standard ID lookups. I also added the necessary wrapper methods and declaration fixes to keep the tree stable while traversing it.
 
 Working on this taught me a lot about adding features to existing code without breaking the core structure. Writing recursive search logic gave me a much better grip on data filtering. The biggest hurdle was handling the technical details outside the basic pseudocode, like setting up wrapper methods and fixing declarations. Fixing those bugs proved that building new features takes careful attention to the underlying code, not just the logic.
+
 --- 
 
 ## Enhancement 3: Databases 
