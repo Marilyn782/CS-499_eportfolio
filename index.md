@@ -7,10 +7,11 @@ title: CS-499 ePortfolio
   h2, h3 {
     color: #5b21b6 !important;
   }
-  .page-header p {
+  .page-header .project-tagline {
     color: #ffffff !important;
-    font-size: 1.25rem !important;
-    font-weight: 600;
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.4);
   }
 </style>
 
