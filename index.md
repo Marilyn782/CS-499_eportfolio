@@ -7,7 +7,15 @@ title: CS-499 ePortfolio
   h2, h3 {
     color: #5b21b6 !important;
   }
+  .page-header p {
+    color: #ffffff !important;
+    font-size: 1.25rem !important;
+    font-weight: 600;
+  }
 </style>
+```[cite: 6]
+
+Paste that right into lines 6 through 10, commit your changes, and Marilyn Roy will pop right off that purple background in crisp white text[cite: 6]!
 
 ## Introduction
 Hello, my name is Marilyn Roy. I am currently completing my Bachelor's in Computer Science. This GitHub Pages account serves as my electronic professional portfolio for my CS-499 capstone class. It highlights my technical growth across my software design, algorithms, and database artifacts.
