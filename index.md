@@ -32,17 +32,16 @@ Completing my coursework has allowed me to appreciate the importance of rigorous
 
 ### Portfolio Artifacts
 
-
 ## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
 For my first enhancement in the Software Design and Engineering category, I chose the Animal Rescue Database and Dashboard Application I built in CS 340. I coded it in Python using MongoDB, Plotly, and Dash. It hooks straight into an animal shelter database, filters records for things like water or mountain rescue needs, and shows everything on an interactive web dashboard with data tables and maps.
-
-[View Enhancement One Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20One)
 
 I picked this piece because it proves my skills in software development, database handling, and full-stack app building. The Python CRUD code and the interactive maps do the heavy lifting here. To level it up, I moved the whole app to run locally, added input checks to stop bad data from crashing it, and threw in user login security to lock down database changes.
 
 These upgrades hit the course outcomes I mapped out in Module One right on the mark. Adding input validation proved Outcome 3 by keeping the app stable against bad data. The login security checked off Outcome 5 by building a real security mindset and restricting database access. Other than shifting everything to my local machine, my original plan didn't change at all.
 
 Working through this enhancement taught me a ton about writing reliable code with proper security and authentication. The biggest headache was moving the code and database setup off the lab environment and onto my own computer. Figuring out connection strings and local dependencies forced me to learn how Python talks to MongoDB behind the scenes, and the dashboard is more stable now because of it.
+
+[View Enhancement One Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20One)
 
 ---  
   
