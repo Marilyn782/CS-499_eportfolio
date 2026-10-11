@@ -54,6 +54,8 @@ These updates checked off the course outcomes I planned for Module One. Adding t
 
 Working on this taught me a lot about adding features to existing code without breaking the core structure. Writing recursive search logic gave me a much better grip on data filtering. The biggest hurdle was handling the technical details outside the basic pseudocode, like setting up wrapper methods and fixing declarations. Fixing those bugs proved that building new features takes careful attention to the underlying code, not just the logic.
 
+[View Enhancement Two Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Two)
+
 --- 
 
 ## Enhancement 3: Databases 
@@ -65,6 +67,7 @@ These upgrades hit the course outcomes I aimed for right on target. Adding custo
 
 Working on this performance upgrade taught me a lot about how MongoDB handles compound indexing under the hood. The main headaches were parameter mapping mismatches between my CRUD class and Jupyter, plus a few module caching issues during testing. Sorting out those integration hurdles showed me why clean API design and solid testing matter so much when you're updating working code.
 
+[View Enhancement Three Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Three)
 
 ---
 
