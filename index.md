@@ -15,22 +15,22 @@ title: CS-499 ePortfolio
   }
 </style>
 
-## Introduction
+### Introduction
 Hello, my name is Marilyn Roy. I am currently completing my Bachelor's in Computer Science. This GitHub Pages account serves as my electronic professional portfolio for my CS-499 capstone class. It highlights my technical growth across my software design, algorithms, and database artifacts.
 
 ---
 
-## Education Review
+### Education Review
 Completing my coursework has allowed me to appreciate the importance of rigorous software engineering practices, secure coding, algorithms, and data structure optimization.
 
 ---
 
-## Code Review
+### Code Review
 [Watch My Code Review Here](https://youtu.be/wokFh1Ooinc)
 
 ---
 
-## Portfolio Artifacts
+### Portfolio Artifacts
 
 
 ## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
