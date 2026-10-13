@@ -18,7 +18,7 @@ title: CS-499 Final Capstone Project ePortfolio
   }
 </style>
 
-## Self Assessment
+## Self-Assessment
 
 Completing my computer science degree over the past three years while battling stage 3C breast cancer has been a journey of resilience, focus, and determination. Pushing through these challenges to reach graduation has strengthened my passion for the field and shaped my ultimate professional goal of becoming a technical project manager. Throughout the program, I worked on projects that pushed me past basic coding and prepared me to lead software builds. I learned how to collaborate in group settings by managing shared code and tracking project tasks. I also learned how to communicate clearly with stakeholders, ensuring that technical choices, timelines, and project requirements are understood by both developers and management.
 
