@@ -21,6 +21,7 @@ Hello, my name is Marilyn Roy. I am currently completing my Bachelor's in Comput
 ### Code Review
 
 Code reviews are extremely important for quality assurance. They bring a fresh perspective to catch blind spots and bugs. Taking a second look at your work or someone else's work acts as a safety net that keeps your software reliable, ensures your logic makes sense to others, and helps everyone write cleaner, more maintainable code.
+
 [Watch My Code Review Here](https://youtu.be/wokFh1Ooinc)
 
 ---
