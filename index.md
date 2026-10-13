@@ -18,8 +18,15 @@ title: CS-499 Final Capstone Project ePortfolio
   }
 </style>
 
-## Introduction
-Hello, my name is Marilyn Roy. I am currently completing my Bachelor's in Computer Science. This GitHub Pages account serves as my electronic professional portfolio for my CS-499 capstone class. It highlights my technical growth across my software design, algorithms, and database artifacts.
+## Self Assessment
+
+Completing my computer science degree over the past three years while battling stage 3C breast cancer has been a journey of resilience, focus, and determination. Pushing through these challenges to reach graduation has strengthened my passion for the field and shaped my ultimate professional goal of becoming a technical project manager. Throughout the program, I worked on projects that pushed me past basic coding and prepared me to lead software builds. I learned how to collaborate in group settings by managing shared code and tracking project tasks. I also learned how to communicate clearly with stakeholders, ensuring that technical choices, timelines, and project requirements are understood by both developers and management.
+
+My coursework built a strong technical foundation that directly supports my career plans. Throughout the program, three of the most important concepts I learned were writing clean and maintainable code, organizing databases so they perform efficiently, and protecting software from common security threats. When studying data structures and algorithms, I learned to analyze efficiency and pick the right tools to solve performance problems. In software engineering and database classes, I learned how to design scalable systems from scratch and optimize data flow. I also focused heavily on security, learning how to spot potential vulnerabilities early and build defensive measures like input validation and user authentication right into the system architecture.
+
+Through these experiences and artifact enhancements, I successfully met all five course outcomes for the program. I built collaborative environments that support organizational decision-making, delivered professional communications tailored to specific audiences, and designed computing solutions using proper algorithmic principles and industry standards. I also demonstrated the use of innovative tools to deliver business value and cultivated a proactive security mindset to protect data and resources.
+
+The artifacts in this portfolio tie these skills together and show my full range as a technical professional. They prove I can evaluate existing systems, spot operational limits, and guide technical projects from start to finish. The first artifact highlights my software design skills by turning a shelter dashboard into a secure, locally hosted app with login protection. The second artifact showcases my algorithmic abilities through a custom price range search function added to a binary search tree. The third artifact demonstrates my database expertise by optimizing MongoDB queries with compound indexing to stop performance slowdowns. Together, these pieces introduce my background and set up the work that follows.
 
 ---
 
