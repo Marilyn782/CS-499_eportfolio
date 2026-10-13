@@ -1,17 +1,14 @@
 ---
 layout: default
-title: CS-499 Final Capstone Project
-ePortfolio
+title: CS-499 Final Capstone Project ePortfolio
 ---
 
 <style>
   h2, h3 {
     color: #5b21b6 !important;
   }
-  .page-header h2, .page-header p, .page-header .project-tagline, .page-header span {
+  .page-header h2, .page-header p, .page-header .project-tagline, .page-header span, .project-name + h2 {
     color: #ffffff !important;
-    font-size: 1.5rem !important;
-    font-weight: 700 !important;
     text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   }
 </style>
