@@ -80,6 +80,7 @@ Working on this enhancement taught me a lot about how to add new features to an 
 
 > ### Enhancement 3: Databases
 > Animal Rescue Database and Dashboard Application
+
 For the Artifact 3 enhancement, which falls under the Databases category, I continued working with the Animal Rescue Database and Dashboard Application that I originally built in CS 340. Developed using Python, MongoDB, Plotly, and Dash, the application connects to a shelter database, manages animal records, and displays filtered results through an interactive web dashboard.
 
 I selected this project for my ePortfolio again because it serves as an excellent foundation for demonstrating database management and query optimization. The components that highlight my abilities include the custom Python CRUD operations and the data retrieval logic connecting to the web dashboard. To improve this artifact for Artifact 3, I addressed a major performance bottleneck: in the original implementation, complex multi-field dashboard filters forced MongoDB to perform slow, full-collection scans. To solve this, I designed and integrated a custom compound index on the (breed, status) fields using pymongo.ASCENDING, transforming sequential searches into instant lookups to ensure the application scales smoothly as data grows.
