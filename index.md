@@ -58,9 +58,13 @@ While enhancing and modifying this artifact, I learned a lot about how to proper
   <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20One" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement One Source Code</a>
 </p>
 
----  
-  
-> ### Enhancement 2: Algorithms and Data Structures
+<br>
+
+---
+
+<br>
+
+### Enhancement 2: Algorithms and Data Structures (Binary Search Tree & Price Range Search)
 > Binary Search Tree & Price Range Search
 
 For the artifact 2 enhancement, I chose the Binary Search Tree program written in C++ that loads, organizes, sorts, and searches through auction bid data efficiently. It was originally created during my CS 300 course. The program utilizes node structures and custom tree traversal algorithms to manage and query records rapidly without needing to perform linear scans over the entire dataset.
