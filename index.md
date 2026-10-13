@@ -35,7 +35,9 @@ The artifacts in this portfolio tie these skills together and show my full range
 
 Code reviews are extremely important for quality assurance. They bring a fresh perspective to catch blind spots and bugs. Taking a second look at your work or someone else's work acts as a safety net that keeps your software reliable, ensures your logic makes sense to others, and helps everyone write cleaner, more maintainable code.
 
-[Watch My Code Review Here](https://youtu.be/wokFh1Ooinc)
+<p align="center">
+  <a href="https://youtu.be/wokFh1Ooinc" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">▶️ Watch My Code Review Video</a>
+</p>
 
 ---
 
@@ -52,7 +54,10 @@ I successfully met the course outcomes I planned to target with this enhancement
 
 While enhancing and modifying this artifact, I learned a lot about how to properly implement security features like user authentication and input validation to make an application much more reliable. One of the biggest challenges I faced was dealing with environment and setup differences, specifically having to shift my code and database configuration to run locally on my machine instead of using the original lab environment. Working through that forced me to really understand how connection strings and dependencies talk to MongoDB behind the scenes, which ultimately made the dashboard much more stable once I got it all set up and working with the help of my instructor.
 
-[View Enhancement One Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20One)
+<p align="center">
+  <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20One" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement One Source Code</a>
+</p>
+
 
 ---  
   
@@ -67,7 +72,10 @@ Yes, I successfully met the course outcomes I planned to pursue in Module One. B
 
 Working on this enhancement taught me a lot about how to add new features to an existing codebase without messing up the original data structure. I got a much better handle on how to write recursive search logic to filter data instead of just doing standard ID lookups. The main challenge was dealing with the technical details outside of the basic pseudocode, like setting up the wrapper methods and fixing declarations so the tree could be traversed safely. Working through those bugs showed me that adding a new feature takes a lot of care with the underlying code structure, not just the logic itself.
 
-[View Enhancement Two Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Two)
+<p align="center">
+  <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Two" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement Two Source Code</a>
+</p>
+
 
 --- 
 
@@ -81,7 +89,9 @@ Yes, I successfully met my planned course goals. By adding custom search indexes
 
 While working on this performance enhancement, I gained a much deeper understanding of how MongoDB handles compound indexing under the hood to accelerate complex queries on large datasets. One of the primary challenges I faced was resolving parameter mapping mismatches between the enhanced CRUD class initialization and the Jupyter notebook environment, along with managing module caching issues during testing. Working through those integration hurdles taught me how important clean API design and rigorous testing are when updating an existing, working codebase without breaking its core functionality.
 
-[View Enhancement Three Source Code](https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Three)
+<p align="center">
+  <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Three" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement Three Source Code</a>
+</p>
 
 ---
 
