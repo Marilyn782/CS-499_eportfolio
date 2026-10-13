@@ -40,8 +40,7 @@ Code reviews are extremely important for quality assurance. They bring a fresh p
 
 ## Portfolio Artifacts
 
-### Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
-> **Artifact Overview & Tech Stack**
+> **Artifact 1 Overview**
 > * **Role / Focus:** Software Design & Engineering
 > * **Technologies:** Python, MongoDB, Plotly, Dash, HTML/CSS
 > * **Key Enhancements:** Local environment deployment, input validation, user authentication & login security
