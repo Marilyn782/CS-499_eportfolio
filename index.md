@@ -7,7 +7,7 @@ title: CS-499 Final Capstone Project ePortfolio
   h2, h3 {
     color: #5b21b6 !important;
   }
-  .page-header h2, .page-header p, .page-header .project-tagline, .page-header span, .project-name + h2 {
+  .page-header h1, .page-header h2, .page-header h3, .page-header p, .page-header span, .page-header a {
     color: #ffffff !important;
     text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   }
