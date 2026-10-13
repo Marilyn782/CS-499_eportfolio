@@ -41,6 +41,10 @@ Code reviews are extremely important for quality assurance. They bring a fresh p
 ## Portfolio Artifacts
 
 ### Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
+> **Artifact Overview & Tech Stack**
+> * **Role / Focus:** Software Design & Engineering
+> * **Technologies:** Python, MongoDB, Plotly, Dash, HTML/CSS
+> * **Key Enhancements:** Local environment deployment, input validation, user authentication & login security
 For the artifact 1 enhancement, which falls under the Software Design and Engineering category, I chose the Animal Rescue Database and Dashboard Application that I originally built in CS 340 (Client/Server Development). I developed this application using Python, MongoDB, Plotly, and Dash. It connects directly to an animal shelter database, filters records based on specific criteria like water or mountain rescue needs, and presents everything through an interactive web-based dashboard featuring data tables and maps.
 
 I selected this artifact for my ePortfolio because it is a strong example of my skills in software development, database work, and building functional applications. The specific parts that showcase my abilities are the Python CRUD code and the interactive dashboard with maps and data tables. To improve the project, I moved it to run locally on my computer, added input checks to stop bad data from causing crashes, and added user login security to protect changes made to the database.
