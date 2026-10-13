@@ -13,12 +13,12 @@ title: CS-499 Final Capstone Project ePortfolio
   }
 </style>
 
-### Introduction
+## Introduction
 Hello, my name is Marilyn Roy. I am currently completing my Bachelor's in Computer Science. This GitHub Pages account serves as my electronic professional portfolio for my CS-499 capstone class. It highlights my technical growth across my software design, algorithms, and database artifacts.
 
 ---
 
-### Code Review
+## Code Review
 
 Code reviews are extremely important for quality assurance. They bring a fresh perspective to catch blind spots and bugs. Taking a second look at your work or someone else's work acts as a safety net that keeps your software reliable, ensures your logic makes sense to others, and helps everyone write cleaner, more maintainable code.
 
@@ -26,9 +26,9 @@ Code reviews are extremely important for quality assurance. They bring a fresh p
 
 ---
 
-### Portfolio Artifacts
+## Portfolio Artifacts
 
-## Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
+### Enhancement 1: Software Design and Engineering (Animal Rescue Database & Dashboard Application)
 For the artifact 1 enhancement, which falls under the Software Design and Engineering category, I chose the Animal Rescue Database and Dashboard Application that I originally built in CS 340 (Client/Server Development). I developed this application using Python, MongoDB, Plotly, and Dash. It connects directly to an animal shelter database, filters records based on specific criteria like water or mountain rescue needs, and presents everything through an interactive web-based dashboard featuring data tables and maps.
 
 I selected this artifact for my ePortfolio because it is a strong example of my skills in software development, database work, and building functional applications. The specific parts that showcase my abilities are the Python CRUD code and the interactive dashboard with maps and data tables. To improve the project, I moved it to run locally on my computer, added input checks to stop bad data from causing crashes, and added user login security to protect changes made to the database.
@@ -41,7 +41,7 @@ While enhancing and modifying this artifact, I learned a lot about how to proper
 
 ---  
   
-## Enhancement 2: Algorithms and Data Structures (Binary Search Tree & Price Range Search)
+### Enhancement 2: Algorithms and Data Structures (Binary Search Tree & Price Range Search)
 This artifact is a Binary Search Tree program written in C++ that loads, organizes, sorts, and searches through auction bid data efficiently. It was originally created during my CS 300 course. The program utilizes node structures and custom tree traversal algorithms to manage and query records rapidly without needing to perform linear scans over the entire dataset.
 
 I selected this Binary Search Tree (BST) program from CS 300 for my ePortfolio to showcase my skills in algorithms and data structures through custom node architectures, recursive insertion methods, and logarithmic search efficiency. While the original application effectively handled exact-match ID lookups, it lacked the flexibility to search across an open-ended price range. To improve the artifact, I engineered and integrated a custom recursive function called searchByPriceRange that safely traverses both left and right branches to extract records matching a user-defined budget window, demonstrating my ability to critically evaluate and enhance existing software without compromising structural integrity.
@@ -54,7 +54,7 @@ Working on this enhancement taught me a lot about how to add new features to an 
 
 --- 
 
-## Enhancement 3: Databases 
+### Enhancement 3: Databases 
 For the Artifact 3 enhancement, which falls under the Databases category, I continued working with the Animal Rescue Database and Dashboard Application that I originally built in CS 340. Developed using Python, MongoDB, Plotly, and Dash, the application connects to a shelter database, manages animal records, and displays filtered results through an interactive web dashboard.
 
 I selected this project for my ePortfolio again because it serves as an excellent foundation for demonstrating database management and query optimization. The components that highlight my abilities include the custom Python CRUD operations and the data retrieval logic connecting to the web dashboard. To improve this artifact for Artifact 3, I addressed a major performance bottleneck: in the original implementation, complex multi-field dashboard filters forced MongoDB to perform slow, full-collection scans. To solve this, I designed and integrated a custom compound index on the (breed, status) fields using pymongo.ASCENDING, transforming sequential searches into instant lookups to ensure the application scales smoothly as data grows.
