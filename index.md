@@ -39,7 +39,11 @@ Code reviews are extremely important for quality assurance. They bring a fresh p
   <a href="https://youtu.be/wokFh1Ooinc" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">▶️ Watch My Code Review Video</a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## Portfolio Artifacts
 
@@ -79,8 +83,11 @@ Working on this enhancement taught me a lot about how to add new features to an 
   <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Two" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement Two Source Code</a>
 </p>
 
+<br>
 
---- 
+---
+
+<br>
 
 > ### Enhancement 3: Databases
 > Animal Rescue Database and Dashboard Application
@@ -96,6 +103,12 @@ While working on this performance enhancement, I gained a much deeper understand
 <p align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://github.com/Marilyn782/CS-499_eportfolio/tree/main/Enhancement%20Three" target="_blank" style="background-color: #5b21b6; color: #ffffff !important; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📁 View Enhancement Three Source Code</a>
 </p>
+
+<br>
+
+---
+
+<br>
 
 ---
 
